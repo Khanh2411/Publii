@@ -40,6 +40,9 @@
     "url": "https://github.com/GetPublii/Publii/issues"
   },
   "keywords": [],
+  "dependencies": {
+    "node-sqlite3-wasm": "^1.0.0"
+  },
   "devDependencies": {
     "cross-env": "7.0.3",
     "css-loader": "6.8.1",
