@@ -141,7 +141,7 @@
     "license": "license.txt"
   },
   "dependencies": {
-    "node-gyp": "10.0.1"
+    "node-gyp": "10.0.1",
     "node-sqlite3-wasm": "^1.0.0"
   }
 }
